@@ -2,15 +2,15 @@ import React from "react";
 
 const SocialShare = [
   {
-    iconName: "fa fa-facebook",
-    link: "https://www.facebook.com/",
+    iconName: "fa fa-instagram",
+    link: "https://instagram.com/_valentinetom?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr",
   },
-  { iconName: "fa fa-twitter", link: "https://twitter.com/" },
-  {
-    iconName: "fa fa-youtube",
-    link: "https://www.youtube.com/",
-  },
-  { iconName: "fa fa-dribbble", link: "https://dribbble.com/" },
+  { iconName: "fa fa-twitter", link: "https://x.com/_valentinetom?s=21" },
+  // {
+  //   iconName: "fa fa-youtube",
+  //   link: "https://www.youtube.com/",
+  // },
+  // { iconName: "fa fa-dribbble", link: "https://dribbble.com/" },
 ];
 
 const Social = () => {
