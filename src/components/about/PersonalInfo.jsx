@@ -1,16 +1,16 @@
 import React from "react";
 
 const personalInfoContent = [
-  { meta: "first name", metaInfo: "Steve", hasColor: "" },
-  { meta: "last name", metaInfo: "Milner", hasColor: "" },
-  { meta: "Age", metaInfo: "27 Years", hasColor: "" },
-  { meta: "Nationality", metaInfo: "Tunisian", hasColor: "" },
+  { meta: "first name", metaInfo: "Tom", hasColor: "" },
+  { meta: "last name", metaInfo: "Valentine", hasColor: "" },
+  { meta: "Age", metaInfo: "99 Years", hasColor: "" },
+  { meta: "Nationality", metaInfo: "Nigerian", hasColor: "" },
   { meta: "Freelance", metaInfo: "Available", hasColor: "green" },
-  { meta: "Address", metaInfo: "Tunis", hasColor: "" },
-  { meta: "phone", metaInfo: "+21621184010", hasColor: "" },
-  { meta: "Email", metaInfo: "you@mail.com", hasColor: "" },
-  { meta: "Skype", metaInfo: " steve.milner", hasColor: "" },
-  { meta: "langages", metaInfo: "French, English", hasColor: "" },
+  { meta: "Address", metaInfo: "Uyo, Nigeria", hasColor: "" },
+  { meta: "phone", metaInfo: "+2349075131896", hasColor: "" },
+  { meta: "Email", metaInfo: "valentinetom2022@gmail.com", hasColor: "" },
+  // { meta: "Skype", metaInfo: " steve.milner", hasColor: "" },
+  // { meta: "langages", metaInfo: "French, English", hasColor: "" },
 ];
 
 const PersonalInfo = () => {

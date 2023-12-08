@@ -1,14 +1,63 @@
 import React from "react";
 
 const skillsContent = [
-  { skillClass: "p25", skillPercent: "25", skillName: "HTML" },
-  { skillClass: "p89", skillPercent: "89", skillName: "JAVASCRIPT" },
-  { skillClass: "p70", skillPercent: "70", skillName: "CSS" },
-  { skillClass: "p66", skillPercent: "66", skillName: "PHP" },
-  { skillClass: "p95", skillPercent: "95", skillName: "WORDPRESS" },
-  { skillClass: "p50", skillPercent: "50", skillName: "JQUERY" },
-  { skillClass: "p65", skillPercent: "65", skillName: "ANGULAR" },
-  { skillClass: "p45", skillPercent: "45", skillName: "REACT" },
+  {
+    skillClass: "p75",
+    skillPercent: "75",
+    skillName: "Quality management & Coordination",
+  },
+  {
+    skillClass: "p89",
+    skillPercent: "89",
+    skillName: "Strategic planning & Thinking",
+  },
+  {
+    skillClass: "p70",
+    skillPercent: "70",
+    skillName: "Communication and Writing skills",
+  },
+  {
+    skillClass: "p86",
+    skillPercent: "86",
+    skillName: "Market research & Analysis",
+  },
+  {
+    skillClass: "p95",
+    skillPercent: "95",
+    skillName: "User Feedback collection",
+  },
+  { skillClass: "p90", skillPercent: "90", skillName: "Time Management" },
+  {
+    skillClass: "p75",
+    skillPercent: "75",
+    skillName: "Product strategy & Development",
+  },
+  {
+    skillClass: "p65",
+    skillPercent: "65",
+    skillName: "Problem solving & Implementation",
+  },
+  {
+    skillClass: "p75",
+    skillPercent: "75",
+    skillName: "Teamwork & Collaboration",
+  },
+  {
+    skillClass: "p95",
+    skillPercent: "95",
+    skillName: "Product lifecycle management",
+  },
+  {
+    skillClass: "p85",
+    skillPercent: "85",
+    skillName: "User Experience & A/B testing",
+  },
+  {
+    skillClass: "p90",
+    skillPercent: "90",
+    skillName:
+      "Computer Literacy (Microsoft office, G-suite, Slack, ClickUp, Figma, Jira, Github, etc.)",
+  },
 ];
 
 const Skills = () => {
