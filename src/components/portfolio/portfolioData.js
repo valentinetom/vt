@@ -11,33 +11,35 @@ import Image9 from "../../../public/assets/img/portfolio/project-9.jpg";
 const PortfolioData = [
   {
     id: 1,
-    type: "mockup project",
+    type: "Kommerce",
     image: Image1,
-    tag: ["mockup"],
+    tag: ["mobile"],
     delayAnimation: "0",
     modalDetails: [
       {
-        project: "Website",
-        client: "Envato",
-        language: "HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com/",
+        project: "Online Store",
+        client: "Kommerce",
+        language:
+          "User Research / Story, Product Ideation / Sprints, Stakeholder Management, Product Framework, Dev Team Management",
+        preview: "www.kommerce.com",
+        link: "https://play.google.com/store/apps/details?id=com.kommerce",
       },
     ],
   },
   {
     id: 2,
-    type: "youtube project",
+    type: "Nexascale",
     image: Image2,
-    tag: ["video"],
+    tag: ["web"],
     delayAnimation: "100",
     modalDetails: [
       {
-        project: "video",
-        client: "Videohive",
-        language: " Adobe After Effects",
-        preview: "www.videohive.net",
-        link: "https://www.videohive.net",
+        project: "Asset sharing platform",
+        client: "Nexascale",
+        language:
+          "User Research / Story, Product Ideation / Sprints, Stakeholder Management, Product Framework, Dev Team Management",
+        preview: "www.nexascale.com",
+        link: "https://nexascale-asset.web.app/",
       },
     ],
   },
