@@ -2,25 +2,40 @@ import React from "react";
 
 const educationContent = [
   {
-    year: "2015",
-    degree: "ENGINEERING DEGREE",
-    institute: "OXFORD UNIVERSITY",
-    details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
+    year: "May 2015",
+    degree: "Bachelor of Arts in History",
+    institute: "Pontifical Urban University",
+    details: `Vatican City, Rome.`,
   },
   {
-    year: "2012",
-    degree: "MASTER DEGREE",
-    institute: "KIEV UNIVERSITY",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-        elit, tempor incididunt`,
+    year: "2022",
+    degree: "Agile Development Practices",
+    institute: "LinkedIn Issued",
+    // details: `Vatican City, Rome.`,
   },
   {
-    year: "2009",
-    degree: "BACHELOR DEGREE ",
-    institute: "TUNIS HIGH SCHOOL",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-        elit, sed do eiusmod tempor duntt`,
+    year: "2022",
+    degree: "Product Management Fundamentals",
+    institute: "Udemy Issued",
+    // details: `Vatican City, Rome.`,
+  },
+  {
+    year: "May 2022",
+    degree: "Product Management",
+    institute: "SideHustle Issued",
+    // details: `Vatican City, Rome.`,
+  },
+  {
+    year: "Oct 2022",
+    degree: "Product Management",
+    institute: "Entry Level Certified",
+    // details: `Vatican City, Rome.`,
+  },
+  {
+    year: "2022",
+    degree: "Product Management",
+    institute: "Alt School",
+    // details: `Vatican City, Rome.`,
   },
 ];
 
