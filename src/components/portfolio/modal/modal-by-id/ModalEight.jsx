@@ -1,15 +1,12 @@
-import Image from 'next/image';
-import React from 'react';
+import Image from "next/image";
+import React from "react";
 import CloseImg from "../../../../../public/assets/img/cancel.svg";
-import PortfolioData from '../../portfolioData';
+import PortfolioData from "../../portfolioData";
 
 const ModalEight = ({ modalId, setGetModal }) => {
   return (
     <div className="modal_portfolio">
-      <div
-        className="modal__outside"
-        onClick={() => setGetModal(false)}
-      ></div>
+      <div className="modal__outside" onClick={() => setGetModal(false)}></div>
       <div className="modal__content">
         {PortfolioData.filter((item) => item.id === modalId).map((item) => {
           //
@@ -36,7 +33,7 @@ const ModalEight = ({ modalId, setGetModal }) => {
                       </div>
                       <div className="col-12 col-sm-6 mb-2">
                         <i className="fa fa-code pr-2"></i>
-                        Language :{" "}
+                        Role :{" "}
                         <span className="ft-wt-600 uppercase">
                           {details.language}
                         </span>
