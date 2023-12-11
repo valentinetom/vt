@@ -35,7 +35,7 @@ const Hero = () => {
               alt="hero man"
               // style={{width:'100%',height:'100%'}}
             />
-            <h1 className="text-uppercase poppins-font">
+            <h1 className="poppins-font">
               {"I'm"} {heroContent.heroTitleName}.
               <span>{heroContent.heroDesignation}</span>
             </h1>

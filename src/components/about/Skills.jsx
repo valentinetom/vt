@@ -33,13 +33,13 @@ const skillsContent = [
     skillName: "Product strategy & Development",
   },
   {
-    skillClass: "p65",
-    skillPercent: "65",
+    skillClass: "p85",
+    skillPercent: "85",
     skillName: "Problem solving & Implementation",
   },
   {
-    skillClass: "p75",
-    skillPercent: "75",
+    skillClass: "p88",
+    skillPercent: "88",
     skillName: "Teamwork & Collaboration",
   },
   {

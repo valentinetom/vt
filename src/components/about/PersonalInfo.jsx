@@ -1,8 +1,8 @@
 import React from "react";
 
 const personalInfoContent = [
-  { meta: "first name", metaInfo: "Tom", hasColor: "" },
-  { meta: "last name", metaInfo: "Valentine", hasColor: "" },
+  { meta: "first name", metaInfo: "Valentine", hasColor: "" },
+  { meta: "last name", metaInfo: "Tom", hasColor: "" },
   // { meta: "Age", metaInfo: "99 Years", hasColor: "" },
   { meta: "Nationality", metaInfo: "Nigerian", hasColor: "" },
   { meta: "Freelance", metaInfo: "Available", hasColor: "green" },
