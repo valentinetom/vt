@@ -22,7 +22,7 @@ const Portfolio = () => {
             <Tab>MOBILE APPS</Tab>
             <Tab>WEB APPS</Tab>
             <Tab>WEBSITES</Tab>
-            <Tab>MOCKUP</Tab>
+            {/* <Tab>MOCKUP</Tab> */}
           </TabList>
 
           <div className="container">
