@@ -7,8 +7,8 @@ import "slick-carousel/slick/slick-theme.css";
 // internal
 import CloseImg from "../../../../../public/assets/img/cancel.svg";
 import PortfolioData from "../../portfolioData";
-import img1 from "../../../../../public/assets/img/portfolio/project-1.jpg";
-import img2 from "../../../../../public/assets/img/portfolio/project-2.jpg";
+import img1 from "../../../../../public/assets/img/portfolio/auto-1.jpg";
+import img2 from "../../../../../public/assets/img/portfolio/auto-2.jpg";
 
 const ModalThree = ({ modalId, setGetModal }) => {
   let settings = {

@@ -21,7 +21,7 @@ const Portfolio = () => {
             <Tab>ALL</Tab>
             <Tab>MOBILE APPS</Tab>
             <Tab>WEB APPS</Tab>
-            <Tab>GRAPHIC DESIGN</Tab>
+            <Tab>WEBSITES</Tab>
             <Tab>MOCKUP</Tab>
           </TabList>
 
@@ -111,7 +111,7 @@ const Portfolio = () => {
             <TabPanel>
               <div className="tab-container">
                 {PortfolioData.filter((item) =>
-                  item.tag.includes("graphic design")
+                  item.tag.includes("website")
                 ).map((item) => {
                   const { id, type, image, delayAnimation } = item;
                   return (

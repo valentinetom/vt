@@ -45,33 +45,35 @@ const PortfolioData = [
   },
   {
     id: 3,
-    type: "slider project",
+    type: "Automagic",
     image: Image3,
-    tag: [],
+    tag: ["website"],
     delayAnimation: "200",
     modalDetails: [
       {
         project: "Website",
-        client: "Themeforest",
-        language: " HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com",
+        client: "Automagic",
+        language:
+          "User Research / Story, Product Ideation / Sprints, Stakeholder Management, Product Framework, Dev Team Management",
+        preview: "www.atmgc.xyz",
+        link: "www.atmgc.xyz",
       },
     ],
   },
   {
     id: 4,
-    type: "local project",
+    type: "Tennis Love",
     image: Image4,
-    tag: ["logo", "video"],
+    tag: ["web"],
     delayAnimation: "0",
     modalDetails: [
       {
-        project: "video",
-        client: "Videohive",
-        language: " Adobe After Effects",
-        preview: "www.videohive.net",
-        link: "https://www.videohive.net",
+        project: "Tennis Love",
+        client: "Tennis Love",
+        language:
+          "User Research / Story, Product Ideation / Sprints, Stakeholder Management, Product Framework, Dev Team Management",
+        preview: "https://tennislove.app",
+        link: "https://tennislove.app",
       },
     ],
   },

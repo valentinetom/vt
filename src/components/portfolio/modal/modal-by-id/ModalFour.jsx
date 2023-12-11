@@ -55,8 +55,8 @@ const ModalFour = ({ modalId, setGetModal }) => {
                 })}
               </div>
               <figure className="modal__img">
-                {/* <img src={item.image} alt="portfolio project demo" /> */}
-                <video
+                <Image src={item.image} alt="portfolio project demo" />
+                {/* <video
                   id="video"
                   className="responsive-video"
                   controls
@@ -66,8 +66,7 @@ const ModalFour = ({ modalId, setGetModal }) => {
                     src={"/assets/img/portfolio/video.mp4"}
                     type="video/mp4"
                   />
-                  {/* <source src="img/" type="video/mp4" /> */}
-                </video>
+                </video> */}
               </figure>
 
               <button
