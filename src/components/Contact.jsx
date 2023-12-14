@@ -10,14 +10,14 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_n4mkhz9",
-        "template_ugoztxr",
+        "service_ooa5i3e",
+        "template_z1x7dif",
         form.current,
-        "user_vYmDSd9PwIuRXUQEDjYwN"
+        "GrgX9cDx4P5gYKvu8"
       )
       .then(
         (result) => {
-          console.log(result)
+          console.log(result);
           toast.success("Message Sent Successfully!", {
             position: "top-right",
             autoClose: 2000,
