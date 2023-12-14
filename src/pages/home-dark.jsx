@@ -64,7 +64,7 @@ const HomeDark = () => {
                   <h1>
                     ABOUT <span>ME</span>
                   </h1>
-                  <span className="title-bg">Resume</span>
+                  {/* <span className="title-bg">Resume</span> */}
                 </div>
                 {/* End title */}
                 <AboutMain />
@@ -80,9 +80,9 @@ const HomeDark = () => {
                 data-aos-duration="1200"
               >
                 <h1>
-                  my <span>portfolio</span>
+                  <span>portfolio</span>
                 </h1>
-                <span className="title-bg">works</span>
+                {/* <span className="title-bg">works</span> */}
               </div>
               {/* End title */}
               <Portfolio />
@@ -99,7 +99,7 @@ const HomeDark = () => {
                 <h1>
                   get in <span>touch</span>
                 </h1>
-                <span className="title-bg">contact</span>
+                {/* <span className="title-bg">contact</span> */}
               </div>
               <div
                 className="container"
