@@ -3,7 +3,7 @@ import React from "react";
 const experienceContent = [
   {
     year: "May, 2023 — Present",
-    position: "Associate Product Manager",
+    position: "Product Manager",
     compnayName: "Automagic",
     details: `Conducted  market research to identify user needs and preferences thereby prioritizing features for the MVP for two products; asset management tool and tennis app. \n
     Developed product roadmaps and feature prioritization based on customer feedback and business goals which led to the successful launch of two  MVPs (Tennis Love & Asset) and a website (www.atmgc.xyz) in 90 days. \n
@@ -14,7 +14,7 @@ const experienceContent = [
     `,
   },
   {
-    year: "April, 2023 — Present",
+    year: "April, 2023 — December, 2023",
     position: "Product Manager",
     compnayName: "Nexascale",
     details: `Evaluated strategies based on product objectives, market research, and other user-related factors. \n
@@ -27,7 +27,7 @@ const experienceContent = [
   },
   {
     year: "March. 2023 — Present",
-    position: "Associate Product Manager",
+    position: "Product Manager",
     compnayName: "Kommerce",
     details: `Conducted a comprehensive evaluation of product objectives, market research, and user-related factors to formulate effective strategies. \n
     Negotiated with key stakeholders and potential investors to secure support for the upcoming venture. \n
@@ -51,7 +51,7 @@ const experienceContent = [
   },
   {
     year: "Jan 2020 — Present",
-    position: "Operations Manager/ Analyst ",
+    position: "Operations Manager",
     compnayName: "Chrism Oil Nig. LTD",
     details: `Negotiate with potential clients, partners, and stakeholders to discuss company needs and goals. \n
     Monitor and track work progress and utilize results to make quality staff adjustments. \n
@@ -66,8 +66,8 @@ const experienceContent = [
     `,
   },
   {
-    year: "Jan. 2019 —June. 2020",
-    position: "Account Relationship Manager ",
+    year: "Jan. 2016 —June. 2020",
+    position: "Account Relationship Manager",
     compnayName: "Keystone Bank LTD",
     details: `Discussed financial options with clients, and kept them informed about transactions. \n
     Determined customers’ financial service needs and prepared proposals accordingly. \n
