@@ -5,7 +5,7 @@ const personalInfoContent = [
   { meta: "last name", metaInfo: "Tom", hasColor: "" },
   // { meta: "Age", metaInfo: "99 Years", hasColor: "" },
   { meta: "Nationality", metaInfo: "Nigerian", hasColor: "" },
-  { meta: "Freelance", metaInfo: "Available", hasColor: "green" },
+  { meta: "Full-Time/Contract", metaInfo: "Available", hasColor: "green" },
   { meta: "Address", metaInfo: "Uyo, Nigeria", hasColor: "" },
   { meta: "phone", metaInfo: "+2349075131896", hasColor: "" },
   { meta: "Email", metaInfo: "valentinetom2022@gmail.com", hasColor: "" },
