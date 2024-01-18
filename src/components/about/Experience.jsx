@@ -2,6 +2,18 @@ import React from "react";
 
 const experienceContent = [
   {
+    year: "November,, 2023 — Present",
+    position: "Product Manager",
+    compnayName: "Fipay",
+    details: `Conducted  market research to identify user needs and preferences. \n
+    Developed product roadmaps and feature prioritization based on customer feedback and business goals. \n
+    Collaborating with designers, developers, and QA to ensure timely delivery of high-quality products. \n
+    Created well detailed user stories and acceptance criteria for product features which helped the development team in understanding the features. \n
+    Conducted user testing and gathering feedback to inform product improvements. \n
+    Analyzed product performance metrics and making data-driven decisions for future iterations.
+    `,
+  },
+  {
     year: "May, 2023 — Present",
     position: "Product Manager",
     compnayName: "Automagic",
