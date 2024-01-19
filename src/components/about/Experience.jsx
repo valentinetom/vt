@@ -2,7 +2,7 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "November,, 2023 — Present",
+    year: "November, 2023 — Present",
     position: "Product Manager",
     compnayName: "Fipay",
     details: `Conducted  market research to identify user needs and preferences. \n
