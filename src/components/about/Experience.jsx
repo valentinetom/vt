@@ -7,7 +7,7 @@ const experienceContent = [
     compnayName: "Fipay",
     details: `Conducted  market research to identify user needs and preferences. \n
     Developed product roadmaps and feature prioritization based on customer feedback and business goals. \n
-    Collaborating with designers, developers, and QA to ensure timely delivery of high-quality products. \n
+    Collaborating with designers, developers, and QA to ensure timely delivery of high-quality products (fipay.io). \n
     Created well detailed user stories and acceptance criteria for product features which helped the development team in understanding the features. \n
     Conducted user testing and gathering feedback to inform product improvements. \n
     Analyzed product performance metrics and making data-driven decisions for future iterations.
@@ -38,7 +38,7 @@ const experienceContent = [
     `,
   },
   {
-    year: "March. 2023 — Present",
+    year: "March. 2023 — January, 2024",
     position: "Product Manager",
     compnayName: "Kommerce",
     details: `Conducted a comprehensive evaluation of product objectives, market research, and user-related factors to formulate effective strategies. \n
