@@ -111,22 +111,23 @@ const PortfolioData = [
       },
     ],
   },
-  // {
-  //   id: 7,
-  //   type: "facebook project",
-  //   image: Image7,
-  //   tag: ["logo"],
-  //   delayAnimation: "0",
-  //   modalDetails: [
-  //     {
-  //       project: "Website",
-  //       client: "Facebook",
-  //       language: "HTML, CSS, Javascript",
-  //       preview: "www.facebook.com",
-  //       link: "https://www.facebook.com/ibthemes",
-  //     },
-  //   ],
-  // },
+  {
+    id: 7,
+    type: "Fipay",
+    image: Image7,
+    tag: ["web", "website"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "Fipay",
+        client: "Fipay",
+        language:
+          "User Research / Story, Product Ideation / Sprints, Stakeholder Management, Product Framework, Dev Team Management",
+        preview: "www.fipay.io",
+        link: "https://www.fipay.io",
+      },
+    ],
+  },
   // {
   //   id: 8,
   //   type: "dribble project",
