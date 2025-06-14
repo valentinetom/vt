@@ -41,7 +41,7 @@ const index = () => {
               <div className="col-12 mt-1">
                 <Link
                   className="button"
-                  href="/assets/valentine-associate-pm.pdf"
+                  href="/assets/product-manager-cv.pdf"
                   _target="blank"
                   download
                 >

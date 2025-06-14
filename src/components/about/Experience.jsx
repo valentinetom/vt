@@ -2,6 +2,29 @@ import React from "react";
 
 const experienceContent = [
   {
+    year: "April, 2025 — Present",
+    position: "Product Lead (Product Manager & Product Owner)",
+    compnayName: "Trustscomply",
+    details: `Driving end-to-end product leadership across compliance automation initiatives, with full ownership of the vision, strategy, and delivery roadmap. \n
+    Serving in dual roles as Product Manager and Product Owner to align business objectives with agile execution, while fostering strong collaboration among engineering, design, and compliance teams. \n
+    Leading backlog grooming, sprint planning, and stakeholder reviews to ensure smooth and timely feature rollouts. \n
+    Informed by user research, regulatory analysis, and product discovery to shape solutions that simplify trust and compliance workflows. \n
+    Data and KPIs guide continuous iteration and performance optimization. \n
+    lose partnership with the executive team helps shape go-to-market strategies and scale product-market fit effectively.
+    `,
+  },
+  {
+    year: "April, 2024 — March 2025",
+    position: "Product Manager",
+    compnayName: "Wovenremit",
+    details: `Defined and communicated the product vision and roadmap for global payment solutions, ensuring alignment with overarching business goals. \n
+    Conducted market research and user interviews to inform feature development, leading to a 20% increase in user satisfaction. \n
+    Collaborated closely with engineering, design, and marketing teams to successfully launch an FX app on the App Store, achieving 95% on-time delivery. \n
+    Created detailed PRDs, user stories, and acceptance criteria to provide clarity for development. \n
+    Post-launch, tracked key performance indicators and iterated on features using insights from analytics and user feedback.
+    `,
+  },
+  {
     year: "May, 2023 — Present",
     position: "Product Manager",
     compnayName: "Automagic",
